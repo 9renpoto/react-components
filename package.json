@@ -1,7 +1,8 @@
 {
   "name": "@9renpoto/style",
-  "version": "1.0.0",
-  "description": "my style",
+  "private": true,
+  "version": "0.0.1",
+  "description": "@9renpoto styleguide for React",
   "main": "index.js",
   "scripts": {
     "build": "styleguidist build",
