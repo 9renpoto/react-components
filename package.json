@@ -61,9 +61,9 @@
     "url": "git+ssh://git@github.com/9renpoto/style.git"
   },
   "scripts": {
-    "pretest": "npm run clean",
+    "prebuild": "npm run clean",
     "build-storybook": "build-storybook -o ./.out",
-    "build:src": "babel test -d dist/src",
+    "build:src": "babel src -d dist/src",
     "build:test": "babel test -d dist/test",
     "clean": "rimraf dist coverage",
     "deploy-storybook": "storybook-to-ghpages",
@@ -73,7 +73,7 @@
     "lint:js": "eslint .",
     "postpublish": "greenkeeper-postpublish",
     "prebuild": "npm run clean",
-    "pretest:mocha": "npm-run-all -p build:*",
+    "pretest": "npm-run-all -p build:*",
     "serve:storybook": "start-storybook -p 9001",
     "start": "concurrently --kill-others  \"npm run serve:storybook\"",
     "test": "npm-run-all -p test:*",
