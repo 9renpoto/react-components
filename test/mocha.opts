@@ -1,4 +1,3 @@
---compilers js:babel-register
 --require test/setup.js
 --require jsdom-global/register
 --require intelli-espower-loader
