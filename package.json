@@ -19,7 +19,7 @@
     "@kadira/storybook": "^2.29.0",
     "@kadira/storybook-deployer": "^1.2.0",
     "autoprefixer": "^6.5.1",
-    "babel-core": "^6.18.2",
+    "babel-cli": "^6.18.0",
     "babel-eslint": "^7.1.0",
     "babel-loader": "^6.2.7",
     "babel-plugin-flow-react-proptypes": "^0.17.2",
@@ -61,19 +61,23 @@
     "url": "git+ssh://git@github.com/9renpoto/style.git"
   },
   "scripts": {
+    "prebuild": "npm run clean",
     "build-storybook": "build-storybook -o ./.out",
+    "build:src": "babel src -d dist/src",
+    "build:test": "babel test -d dist/test",
     "clean": "rimraf dist coverage",
     "deploy-storybook": "storybook-to-ghpages",
     "lint": "npm-run-all -p lint:*",
     "lint:css": "stylelint *.css",
-    "lint:js": "eslint .",
     "lint:flow": "flow",
+    "lint:js": "eslint .",
     "postpublish": "greenkeeper-postpublish",
     "prebuild": "npm run clean",
+    "pretest": "npm-run-all -p build:*",
     "serve:storybook": "start-storybook -p 9001",
     "start": "concurrently --kill-others  \"npm run serve:storybook\"",
     "test": "npm-run-all -p test:*",
     "test:lint": "npm run lint",
-    "test:mocha": "mocha -- test/**/*.js{,x}"
+    "test:mocha": "mocha --opts=test/mocha.opts -- dist/test/**/*.test.js"
   }
 }
