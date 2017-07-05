@@ -95,7 +95,6 @@
     "lint": "npm-run-all -p lint:*",
     "lint:flow": "flow",
     "lint:js": "eslint . --ext=js,jsx --cache",
-    "lint:style": "stylelint \"src/**/*.css\"",
     "precommit": "lint-staged",
     "serve:storybook": "start-storybook -p 9001",
     "start": "concurrently --kill-others  \"npm run serve:storybook\"",
