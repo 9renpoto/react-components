@@ -44,7 +44,7 @@
     "react": "^15.6.1",
     "react-addons-test-utils": "^15.6.0",
     "react-dom": "^15.6.1",
-    "rebass": "^0.3.4",
+    "rebass": "^1.0.0-2",
     "rimraf": "^2.6.1",
     "style-loader": "^0.18.2",
     "stylefmt": "^6.0.0",
