@@ -4,6 +4,7 @@
 <PROJECT_ROOT>/node_modules/babel-plugin-flow-runtime/tools/.*
 <PROJECT_ROOT>/node_modules/fbjs/lib/.*
 <PROJECT_ROOT>/node_modules/styled-components/src/.*
+<PROJECT_ROOT>/node_modules/radium/src/.*
 
 [include]
 

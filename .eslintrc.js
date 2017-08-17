@@ -4,6 +4,6 @@ module.exports = {
     '@9renpoto/eslint-config-react'
   ],
   rules: {
-    'eslint-comments/no-unused-disable': 0 // TODO remove
+    'react/prop-types': 1
   }
 }
