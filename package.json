@@ -92,7 +92,7 @@
     "build:css": "postcss index.css -o lib/main.css",
     "build:js": "cross-env NODE_ENV=production babel src -d lib",
     "clean": "rimraf lib coverage",
-    "coverage": "nyc report --reporter=lcov > coverage.lcov && codecov",
+    "coverage": "codecov -f ./coverage/lcov.info",
     "deploy": "build-storybook -o ./dist -s ./lib && gh-pages -d dist",
     "flow": "flow gen-flow-files src/ --out-dir lib && flow",
     "lint": "run-p lint:*",
