@@ -1,22 +1,21 @@
 /* @flow */
-import { shallow } from 'enzyme'
-import { internet, random } from 'faker'
+import { create } from 'react-test-renderer'
 
 import React from 'react'
 import { Header } from '../src/components/Header'
 
 describe('header', () => {
   test('render', () => {
-    const wrapper = shallow(
+    const wrapper = create(
       <Header
-        baseUrl={internet.url()}
+        baseUrl={'http://example.com'}
         Logo={() =>
           <div>
-            {random.word()}
+            {'Hello'}
           </div>}
-        titles={[random.word(), random.word()]}
+        titles={['t1', 't2']}
       />
     )
-    expect(wrapper.length).toBe(1)
+    expect(wrapper.toJSON()).toMatchSnapshot()
   })
 })
