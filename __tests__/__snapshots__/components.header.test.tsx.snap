@@ -7,8 +7,10 @@ exports[`header render 1`] = `
   <div
     className="nav-left"
   >
-    <div>
-      nav-item title
+    <div
+      className="nav-item title"
+    >
+      Hello
     </div>
   </div>
   <div

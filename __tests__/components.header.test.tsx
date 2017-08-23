@@ -8,8 +8,8 @@ describe('header', () => {
   test('render', () => {
     function foo (name: string) {
       return (
-        <div>
-          {name}
+        <div className={name}>
+          {'Hello'}
         </div>
       )
     }
