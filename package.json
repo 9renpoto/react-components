@@ -92,18 +92,19 @@
   ],
   "license": "MIT",
   "lint-staged": {
-    "{src,stories,__tests__}/**/*.{ts,tsx}": [
-      "prettier --write --parser=typescript",
+    "*.{ts,tsx}": [
+      "prettier --write --parser typescript",
       "tslint --fix",
       "git add"
     ],
-    "{src,stories,__tests__}/**/*.{js,tsx}": [
+    "stories/**/*.{js,jsx}": [
       "prettier-eslint --write",
       "eslint --cache",
       "git add"
     ],
     "src/**/*.css": [
       "stylefmt",
+      "prettier --parser postcss",
       "stylelint",
       "git add"
     ]
