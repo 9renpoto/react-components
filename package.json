@@ -108,7 +108,7 @@
     "coverage": "codecov -f ./coverage/lcov.info",
     "deploy": "npm run build && gh-pages -d .storybook/build",
     "lint": "run-p lint:*",
-    "lint:ts": "tslint src/**/*.ts",
+    "lint:ts": "tslint {src,stories,__tests__}/**/*.ts{,x}",
     "precommit": "lint-staged",
     "prestart": "run-s clean build:css",
     "start": "start-storybook -p 9001 -s ./lib",
