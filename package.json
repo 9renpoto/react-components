@@ -110,6 +110,7 @@
     "lint": "run-p lint:*",
     "lint:ts": "tslint {src,stories,__tests__}/**/*.ts{,x}",
     "precommit": "lint-staged",
+    "prepublish": "npm run build",
     "prestart": "run-s clean build:css",
     "start": "start-storybook -p 9001 -s ./lib",
     "storybook": "build-storybook -o ./.storybook/build -s ./lib",
