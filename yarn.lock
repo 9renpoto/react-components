@@ -6165,9 +6165,9 @@ rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-calendar-heatmap@^1.6.1:
-  version "1.6.2"
-  resolved "https://registry.yarnpkg.com/react-calendar-heatmap/-/react-calendar-heatmap-1.6.2.tgz#ef9d843182ead52a29c9cace33f2e45b8efdcb1f"
+react-calendar-heatmap@^1.6.3:
+  version "1.6.3"
+  resolved "https://registry.yarnpkg.com/react-calendar-heatmap/-/react-calendar-heatmap-1.6.3.tgz#17bf56ad175d85ee5793410c36881112246de570"
   dependencies:
     prop-types "^15.5.10"
 
