@@ -35,5 +35,4 @@ npm test
 
 MIT
 
-
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F9renpoto%2Fstyle.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F9renpoto%2Fstyle?ref=badge_large)
