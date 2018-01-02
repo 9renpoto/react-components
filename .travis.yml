@@ -16,7 +16,7 @@ after_success:
 - openssl aes-256-cbc -k "$SERVER_KEY" -in .travis/deploy_key.enc -d -a -out deploy.key
 - cp deploy.key ~/.ssh/
 - chmod 600 ~/.ssh/deploy.key
-- '[ "$TRAVIS_BRANCH" == master ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$CMD" == "build" ] && yarn deploy'
+- '[ "$TRAVIS_BRANCH" == master ] && [ "$TRAVIS_PULL_REQUEST" == "false" ] && [ "$CMD" == "test" ] && yarn deploy'
 notifications:
   email: false
   slack:
