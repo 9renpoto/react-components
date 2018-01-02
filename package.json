@@ -106,7 +106,7 @@
   },
   "scripts": {
     "assets": "cpx 'assets/**/*.{css,png,jpg}' lib",
-    "build": "run-s clean tsc build:css assets",
+    "build": "run-s clean tsc assets build:*",
     "build:css": "postcss src/index.css -o lib/bundle.css",
     "build:storybook": "run-s build storybook",
     "clean": "rimraf coverage .stoybook/build lib",
