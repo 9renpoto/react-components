@@ -240,24 +240,12 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         onMouseOver={[Function]}
         width={10}
         x={0}
-        y={0}
-      >
-        <title />
-      </rect>
-      <rect
-        className="color-github-0"
-        height={10}
-        onClick={[Function]}
-        onMouseLeave={[Function]}
-        onMouseOver={[Function]}
-        width={10}
-        x={0}
         y={11}
       >
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -269,7 +257,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -346,7 +334,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -358,7 +346,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -435,7 +423,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -447,7 +435,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -500,7 +488,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(33, 0)"
     >
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -512,7 +500,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -589,7 +577,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(44, 0)"
     >
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -601,7 +589,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -767,7 +755,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(66, 0)"
     >
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -779,7 +767,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -880,7 +868,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -892,7 +880,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1005,7 +993,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1046,7 +1034,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1058,7 +1046,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1147,7 +1135,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1159,7 +1147,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1171,7 +1159,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1183,7 +1171,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1248,7 +1236,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1260,7 +1248,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1272,7 +1260,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1284,7 +1272,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1301,7 +1289,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(132, 0)"
     >
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1313,7 +1301,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1782,7 +1770,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -1794,7 +1782,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2025,7 +2013,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2037,7 +2025,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2061,7 +2049,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2073,7 +2061,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2174,7 +2162,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2191,7 +2179,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(242, 0)"
     >
       <rect
-        className="color-github-2"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2203,7 +2191,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2215,7 +2203,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2251,7 +2239,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2263,7 +2251,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2280,7 +2268,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(253, 0)"
     >
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2328,7 +2316,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2340,7 +2328,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2441,7 +2429,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2458,7 +2446,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(275, 0)"
     >
       <rect
-        className="color-github-1"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2470,7 +2458,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2482,7 +2470,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2494,7 +2482,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2530,7 +2518,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2547,7 +2535,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(286, 0)"
     >
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2607,7 +2595,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2619,7 +2607,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2737,7 +2725,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2761,7 +2749,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2797,7 +2785,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-4"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2814,7 +2802,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(319, 0)"
     >
       <rect
-        className="color-github-0"
+        className="color-github-4"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2826,7 +2814,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2838,7 +2826,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2903,7 +2891,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(330, 0)"
     >
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2915,7 +2903,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2975,7 +2963,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -2992,7 +2980,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(341, 0)"
     >
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3040,7 +3028,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3052,7 +3040,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3081,7 +3069,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(352, 0)"
     >
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3093,7 +3081,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3663,7 +3651,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3675,7 +3663,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3728,7 +3716,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-3"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3740,7 +3728,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-3"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3752,7 +3740,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3764,7 +3752,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3817,7 +3805,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -3829,7 +3817,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4007,7 +3995,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-1"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4019,7 +4007,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4120,7 +4108,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4132,7 +4120,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4149,7 +4137,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
       transform="translate(484, 0)"
     >
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4161,7 +4149,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4339,7 +4327,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-2"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4351,7 +4339,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-2"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4428,7 +4416,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-1"
+        className="color-github-0"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4440,7 +4428,7 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         <title />
       </rect>
       <rect
-        className="color-github-0"
+        className="color-github-1"
         height={10}
         onClick={[Function]}
         onMouseLeave={[Function]}
@@ -4869,6 +4857,18 @@ exports[`Storyshots ReactCalenderHeatmap default 1`] = `
         width={10}
         x={0}
         y={0}
+      >
+        <title />
+      </rect>
+      <rect
+        className="color-github-0"
+        height={10}
+        onClick={[Function]}
+        onMouseLeave={[Function]}
+        onMouseOver={[Function]}
+        width={10}
+        x={0}
+        y={11}
       >
         <title />
       </rect>
