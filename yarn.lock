@@ -3486,9 +3486,9 @@ eslint-plugin-import@^2.9.0:
     minimatch "^3.0.3"
     read-pkg-up "^2.0.0"
 
-eslint-plugin-jest@21.25.1:
-  version "21.25.1"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-21.25.1.tgz#166c6b9d33bd7bc5b8ece62cff878ba207600bb6"
+eslint-plugin-jest@21.26.0:
+  version "21.26.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-jest/-/eslint-plugin-jest-21.26.0.tgz#3375de090cdd43af1971a4a93f5d332a13c10a6d"
 
 eslint-plugin-node@^7.0.0:
   version "7.0.1"
@@ -8193,11 +8193,11 @@ rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-calendar-heatmap@^1.6.1:
-  version "1.6.3"
-  resolved "https://registry.yarnpkg.com/react-calendar-heatmap/-/react-calendar-heatmap-1.6.3.tgz#17bf56ad175d85ee5793410c36881112246de570"
+react-calendar-heatmap@^1.6.3:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/react-calendar-heatmap/-/react-calendar-heatmap-1.7.0.tgz#e6bf32a79c1557962cf68806a89e21aeb16797b8"
   dependencies:
-    prop-types "^15.5.10"
+    prop-types "^15.6.2"
 
 react-dev-utils@^5.0.0:
   version "5.0.0"
