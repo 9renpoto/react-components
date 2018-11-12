@@ -1,3 +1,4 @@
+.envrc
 lib/
 .cache/
 .storybook/build

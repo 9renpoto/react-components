@@ -7,10 +7,12 @@
     "url": "https://github.com/9renpoto/style/issues"
   },
   "dependencies": {
+    "@types/react-vertical-timeline-component": "^2.3.0",
     "bulma": "0.7.2",
     "classnames": "2.2.6",
     "react-calendar-heatmap": "1.8.0",
-    "react-fa": "5.0.0"
+    "react-fa": "5.0.0",
+    "react-vertical-timeline-component": "^2.3.1"
   },
   "devDependencies": {
     "@9renpoto/eslint-config": "4.7.0",
@@ -18,12 +20,18 @@
     "@9renpoto/stylelint-config": "4.4.0",
     "@9renpoto/tslint-config": "4.7.0",
     "@storybook/addon-storyshots": "4.0.9",
+    "@babel/core": "7.1.5",
+    "@material-ui/core": "3.4.0",
+    "@material-ui/icons": "3.0.1",
+    "@storybook/addon-storyshots": "4.0.7",
     "@storybook/react": "4.0.9",
     "@types/classnames": "2.2.6",
     "@types/faker": "4.1.4",
     "@types/jest": "23.3.10",
     "@types/node": "10.12.10",
+    "@types/react": "16.3.11",
     "@types/react-calendar-heatmap": "1.6.2",
+    "@types/react-dom": "16.0.9",
     "@types/storybook__react": "4.0.0",
     "awesome-typescript-loader": "5.2.1",
     "babel-jest": "23.6.0",
